@@ -10,3 +10,5 @@ So we also cover that in our inbuilt one-to-one live interaction in which the pe
 There will be a section for offline therapy, a book store, a quotes zone, and a daily task section where people can prepare and maintain their physical and mental health. However, some people are afraid of disclosing their personal mental health problems because doing so would imply that they are unable to cope with stress, which would demotivate them. As a result, we have created a friendly community section where your identity will remain anonymous, allowing you to freely share your problem.
 
 And if a person is fully fine then there is a section where people may make friends and discuss their opinions with one another, allowing people to become more open to the community and voice their thoughts openly in a physical setting.
+# Checkout video and Screenshots of our project here:
+https://devfolio.co/submissions/mentify-1686
