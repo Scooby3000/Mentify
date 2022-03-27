@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100&family=Sen&display=swap');
+
+#bottommain {
+  font-family: 'Sen', sans-serif;
+  color: white;
+  background-color: #151515;
+}
+
+#bottom1 i {
+  display: inline-block;
+}
+
+#footer1 {
+  width: 100%;
+  font-family: 'Sen', sans-serif;
+  color: white;
+  background-color: #151515;
+  color: white;
+}
+
+#jumbo {
+  padding: 17%;
+  margin: 0px;
+  background-color: black;
+}
+
+#frontend {
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Sen', sans-serif;
+  margin: 0px;
+  padding-top: 4%;
+}
+
+#backend {
+  text-align: center;
+  text-decoration: underline;
+  font-family: 'Sen', sans-serif;
+  margin: 0px;
+}
+
+#area1 {}
+
+#logo2 {
+  color: white;
+}
+
+#info1 {
+  background-color: #151515;
+  margin: 0px;
+  font-family: 'Sen', sans-serif;
+}
+
+#cont1 {
+  float: left;
+  padding-top: 2%;
+  padding-left: 4%;
+  margin: 0 1.5%;
+  margin-right: inherit;
+  color: white;
+  font-family: 'Sen', sans-serif;
+  width: 47%;
+}
+
+#cont2 {
+  float: left;
+  padding-left: 1%;
+  margin: 0 1.5%;
+  padding-top: 2%;
+  margin-left: inherit;
+  color: white;
+  font-family: 'Sen', sans-serif;
+  width: 47%;
+}
+
+.bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 385px;
+  height: 300px;
+  border: 0px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  /* Safari */
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: #151515;
+  color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: #00203FFF;
+  color: white;
+  transform: rotateY(180deg);
+  font-family: 'Sen', sans-serif;
+}
+
+.body {
+  font-family: 'Sen', sans-serif;
+}
+
+#row1, #row2 {
+  padding-left: 3%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  background-color: #151515;
+  font-family: 'Sen', sans-serif;
+}
+
+#logo1 {
+  max-width: 100%;
+  height: 100%;
+}
+
+.new-lines {
+  background-color: #151515;
+}
+
+#flipeverything1 {
+  background-color: #151515;
+  margin-top: 0px;
+  border-top: : solid;
+  border-color: black;
+  color: white;
+  margin: 0px;
+}
+
+#flipeverything2 {
+  background-color: #151515;
+  margin-top: 0px;
+  border-top: : solid;
+  border-color: black;
+  color: white;
+  margin: 0px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Sen', sans-serif;
+}
+
+#FE {
+  color: white;
+  font-family: 'Sen', sans-serif;
+}
+
+#navlist1 {
+  padding-left: 40%;
+}
+
+#nav1 .li {
+  padding: 2px 30px 2px 30px;
+}
